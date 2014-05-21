@@ -26,7 +26,7 @@ public class Prjava01YudesA {
             bw.write("<html>"); bw.newLine();
             bw.write("  <head>"); bw.newLine();
             bw.write("      <title>"); bw.newLine();
-            bw.write("          Nova p&agrave;gina web"); bw.newLine();
+            bw.write("          DAW2 UF4 Pr&agrave;ctica 2"); bw.newLine();
             bw.write("      </title>"); bw.newLine();
             bw.write("  </head>"); bw.newLine();
             bw.write("  <body>"); bw.newLine();
